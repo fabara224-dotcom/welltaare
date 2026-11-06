@@ -1,0 +1,3 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Maintenance · COMPLEXE WELLTAARÉ COLLECTION</title>
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0B0A09;color:#F3ECDD;font-family:Georgia,serif;text-align:center;padding:24px}h1{font-weight:400;font-size:clamp(2rem,5vw,3rem);margin:12px 0}p{color:#9D9384;font-family:system-ui,sans-serif}.b{color:#D4AF5A;letter-spacing:.3em;font-size:.75rem;font-family:system-ui,sans-serif}</style></head>
+<body><div><p class="b">COMPLEXE WELLTAARÉ COLLECTION</p><h1>Nous améliorons la boutique.</h1><p>Le site revient dans quelques instants. Merci de votre patience.</p></div></body></html>

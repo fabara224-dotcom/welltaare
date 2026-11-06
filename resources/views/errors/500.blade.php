@@ -1,0 +1,3 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Erreur · COMPLEXE WELLTAARÉ COLLECTION</title>
+<style>body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0B0A09;color:#F3ECDD;font-family:Georgia,serif;text-align:center;padding:24px}a{color:#D4AF5A}</style></head>
+<body><div><p style="letter-spacing:.3em;font-size:.75rem">COMPLEXE WELLTAARÉ COLLECTION</p><h1 style="font-weight:400">Un souci technique est survenu.</h1><p>Réessayez dans quelques instants. <a href="/">Retour à l'accueil</a></p></div></body></html>
