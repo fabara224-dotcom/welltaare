@@ -174,3 +174,4 @@ resources/views/shop/        pages publiques     resources/views/admin/  pages a
 public/css/shop.css, admin.css, public/js/shop.js
 ```
 # welltaare
+# welltaare
